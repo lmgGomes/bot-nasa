@@ -1,3 +1,8 @@
+
+#.env
+export TELEGRAM_TOKEN=8215475928:AAHwzDJUZ_2ChDqBseABumMTRbeicTsG99k
+NASA_API_KEY=jJ1ftG2ZmZztjF8VLgpDc0tEdoBnoEJZQrUwesH5
+
 import os
 from dotenv import load_dotenv
 import requests
