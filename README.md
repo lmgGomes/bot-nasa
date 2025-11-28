@@ -1,14 +1,14 @@
-##**<ins>🛰️ Bot NASA (Telegram)</ins>**##
+**<ins>🛰️ Bot NASA (Telegram)</ins>**
 
 Um bot simples e divertido que utiliza a API da NASA (APOD - Astronomy Picture of the Day) para enviar a seus usuários a incrível foto astronômica do dia, juntamente com sua descrição.
 
 **<ins>✨ Funcionalidades</ins>**
 
-Foto do Dia: Envia automaticamente a imagem ou vídeo astronômico do dia (APOD) fornecido pela NASA.
+*Foto do Dia*: Envia automaticamente a imagem ou vídeo astronômico do dia (APOD) fornecido pela NASA.
 
-Descrição Detalhada: Inclui o título e uma breve explicação sobre o que a imagem/vídeo representa.
+*Descrição Detalhada*: Inclui o título e uma breve explicação sobre o que a imagem/vídeo representa.
 
-Loop de Execução: Mantém um ciclo de polling ativo para verificar e responder a novos comandos (se for um bot de mensagens, como Telegram).
+*Loop de Execução*: Mantém um ciclo de polling ativo para verificar e responder a novos comandos (se for um bot de mensagens, como Telegram).
 
 **<ins>🛠️ Tecnologias Utilizadas</ins>**
 
