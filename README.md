@@ -2,15 +2,15 @@
 
 Um bot simples e divertido que utiliza a API da NASA (APOD - Astronomy Picture of the Day) para enviar a seus usuários a incrível foto astronômica do dia, juntamente com sua descrição.
 
-✨ Funcionalidades
+**<ins>✨ Funcionalidades</ins>**
 Foto do Dia: Envia automaticamente a imagem ou vídeo astronômico do dia (APOD) fornecido pela NASA.
 
 Descrição Detalhada: Inclui o título e uma breve explicação sobre o que a imagem/vídeo representa.
 
 Loop de Execução: Mantém um ciclo de polling ativo para verificar e responder a novos comandos (se for um bot de mensagens, como Telegram).
 
-🛠️ Tecnologias Utilizadas
-Linguagem: Python
+**<ins>🛠️ Tecnologias Utilizadas</ins>**
+<sub>Linguagem: Python</sub>
 
 APIs:
 
@@ -22,7 +22,7 @@ Gerenciamento de Variáveis: python-dotenv (para carregar variáveis de ambiente
 
 Requisições HTTP: requests
 
-🚀 Como Configurar e Executar
+**<ins>🚀 Como Configurar e Executar</ins>**
 Siga os passos abaixo para configurar e rodar o bot em seu ambiente.
 
 1. Clonar o Repositório
