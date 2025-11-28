@@ -15,7 +15,7 @@ Um bot simples e divertido que utiliza a API da NASA (APOD - Astronomy Picture o
 <sub>Linguagem: Python</sub>
 
 
-**<ins>APIs necessarias:</ins>]**
+**<ins>APIs necessarias:</ins>**
 
 NASA APOD API: Para buscar o conteúdo astronômico diário.
 
